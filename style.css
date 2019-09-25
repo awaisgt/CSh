@@ -1,0 +1,208 @@
+body{
+background-color: #eeeeee;
+margin:0;
+margin:0 0 0 0;
+border:0 0 0 0;
+padding: 0 0 0 0;
+max-height: 3500px;
+}
+
+.mainclass{
+position: relative;
+width: 100vw;
+margin:0 0 0 0;
+border:0 0 0 0;
+/* min-height:1690px;
+max-height: 1691px;
+*/
+background-color:#E0EBE8 ;
+
+
+}
+.topdiv{
+position: absolute;
+top:-20px;
+height:770px;
+width: 100vw;
+margin-right: 0px;
+background-color: #ecfcff;
+text-align: center;
+
+}
+
+.bottomdiv{
+  position: absolute;
+  width:100vw;
+  top:750px;
+  height:850px;
+  background-color: #E0EBE8;
+  text-align: center;
+margin-left: 0;
+margin-right: 0;
+}
+
+.titleparagraph{
+
+
+  font-family: 'Delius', cursive;
+  font-size: 1.5em;
+line-height: 5;
+margin-bottom: 70px;
+
+}
+
+.titleheadings{
+
+
+  font-family: 'Pacifico', cursive;
+  font-size: 3.7em;
+margin-bottom: 20px;
+}
+
+.man64px{
+  position: relative;
+  display: inline-block;
+top:0px;
+
+left:10px;
+height: 120px;
+
+}
+.student512px{
+margin-top: 30px;
+width: 30%;
+margin: 0 auto 0 auto;
+
+}
+.man128px{
+
+position: relative;
+top:70px;
+
+}
+
+
+.hiparagraph{
+  position: relative;
+color: teal;
+top:140px;
+font-size: 2.4em;
+font-family: 'Delius', cursive;
+}
+.divp{
+position: relative;
+font-size: 1.4em;
+font-family: 'Delius', cursive;
+top: 160px;
+color: gray;
+}
+
+
+.Footer{
+  position: relative;
+  top:3475px;
+height: 20px;
+margin-top: 6px;
+background-color:#eeeeee;
+text-align: center;
+font-family: 'Pacifico', cursive;
+
+}
+
+.footerparagraph{
+color: #004d61;
+font-size: 1.0em;
+
+
+}
+.footerparagraph a{
+color: #004d61;
+font-size: 1.0em;
+text-decoration: none;
+
+}
+.footerparagraph a:hover{
+  color: #6b778d;
+}
+.header{
+height: 96px;
+background-color: #ecfcff;
+width: 100%;
+margin-bottom: 0px;
+}
+
+
+
+
+.div3{
+  position: absolute;
+  top:1600px;
+  height:890px;
+  width: 100vw;
+  margin-right: 0px;
+  background-color: red;
+  text-align: center;
+
+background-color:#d4d7dd;
+
+
+}
+
+
+
+.hiparagraph1{
+
+    position: relative;
+  color: teal;
+  top:270px;
+  font-size: 2.4em;
+  line-height: 0;
+
+  font-family: 'Delius', cursive;
+  }
+
+
+
+.edtable{
+font-family: 'Delius', cursive;
+  color: teal;
+  position:relative;
+  width: 85%;
+top:280px;
+
+}
+.divskills{
+  position: absolute;
+  top:2580px;
+  height:890px;
+  width: 100vw;
+  margin-right: 0px;
+  background-color: red;
+  text-align: center;
+background-color: #eeeeee;
+
+}
+.skillsimg{
+position: relative;
+top:100px;
+
+}
+.skillspg{
+  position: relative;
+color: teal;
+top:180px;
+font-size: 2.4em;
+line-height: 0;
+
+font-family: 'Delius', cursive;
+
+}
+.skillstable{
+  font-family: 'Delius', cursive;
+    color: teal;
+    position:relative;
+    width: 65%;
+  top:320px;
+
+
+}
